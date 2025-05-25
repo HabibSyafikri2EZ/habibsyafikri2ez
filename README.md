@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hellow World! I'm Habib syafikri.
 
 <!--
 **HabibSyafikri2EZ/habibsyafikri2ez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![rin shima](https://tenor.com/f11KJYbjJ7.gif)
